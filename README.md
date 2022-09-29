@@ -1,14 +1,17 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/GZu3NtMoA6Lp2alLKk/giphy.gif" width=180"/>
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.giff" width=100"/>
 </div>
   
-  
-  <a href="https://www.linkedin.com/in/aasipowich-11/" aling = "centre">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <div id="header" align="center">
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width=100"/>
+</div>
+  <div id="header" align="center">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width=100"/>
+</div>
+ 
   
 <div align="center">
-  <img src = "https://media.giphy.com/media/htWxTsfW1MyeuvgAb3/giphy.gif" width="240" height="154"/>
+  <img src = "https://media.giphy.com/media/htWxTsfW1MyeuvgAb3/giphy.gif" width="100"/>
 </div>
 <div id="badges">
 <!---
