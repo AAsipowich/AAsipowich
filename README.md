@@ -2,6 +2,7 @@
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="200"/>
 </div>
 I'm from Belarus
+
 - :telescope: I am a frontend developer
 
 - :seedling: Exploring Technical Content Writing.
