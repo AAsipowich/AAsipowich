@@ -1,13 +1,4 @@
-<div id="header"/>
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.giff" width=100"/>
-</div>
-  
-  <div id="header" />
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width=100"/>
-</div>
-  <div id="header"/>
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width=100"/>
-</div>
+
  
   
 <div align="center">
