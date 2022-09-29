@@ -1,6 +1,6 @@
 - 👋 Hello, I am a frontend developer
 <div align="center">
-  <img src = "https://media.giphy.com/media/htWxTsfW1MyeuvgAb3/giphy.gif"/>
+  <img src = "https://media.giphy.com/media/htWxTsfW1MyeuvgAb3/giphy.gif" width="100"/>
 </div>
 
 <!---
