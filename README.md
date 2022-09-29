@@ -1,12 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="200"/>
 </div>
- 
+I'm from Belarus
 - :telescope: I am a frontend developer
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Codewars and read tech articles.
+- :zap: In my free time, I solve problems and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ermakova-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aasipowich-11/)
 
